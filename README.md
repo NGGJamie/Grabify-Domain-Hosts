@@ -1,6 +1,6 @@
 
 # Grabify Domain Hosts
-This repository contains a hostfile-style listing of Grabify domains, and is automatically updated daily. 
+This repository contains a hostfile-style listing of Grabify domains plus a line-deliminated listing of them, and is automatically updated daily. 
 
 ## Installation
 To use this file, go to hosts.txt in this repo, and open the Raw version. Then, take the contents and do one of the following below.
